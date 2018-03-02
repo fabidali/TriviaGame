@@ -1,0 +1,59 @@
+body {
+    font-size: 2em !important;
+    background-image:url("../images/trivia.jpg");
+    color:white !important;
+}
+
+h1 {
+    color: blue !important;
+}
+
+.centered {
+  cursor: pointer;  
+}
+
+.align {
+    margin-left: 0  !important;
+    margin-right: 0  !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+#sorry {
+font-size: 1.7em !important;   
+}
+
+#unansweredSpan {
+font-size: 1.5em !important;   
+color: #0ff1ee;   
+}
+
+#correctSpan {
+font-size: 1.5em !important;   
+color: #0d8704;   
+}
+
+#incorrectSpan {
+font-size: 1.5em !important;   
+color: #e63523;   
+}
+
+#timer {
+    color: #6e676e !important;
+    font-size: 2em !important;
+}
+
+.decoration {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    background-color: #d9be54 !important;
+    height: 650px !important;
+    border-radius: 20px;
+}
+
+#answersArea {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 400px !important;
+}
